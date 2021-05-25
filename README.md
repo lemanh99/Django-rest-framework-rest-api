@@ -1,6 +1,6 @@
 # RestAPI
 
-1. Overide Model User Django
+Overide Model User Django
 
 ## Install Project
 
@@ -24,6 +24,6 @@ pip install poetry
 poetry install
 ```
 
-# Tài liệu tham khảo
+# References
 
  1. Template : [Core Base](https://www.youtube.com/watch?v=NkvvWMS220g&list=PLXukqc9t-cM9M0mpySkLwZz51AOuTQwb0&index=3&t=0s)
