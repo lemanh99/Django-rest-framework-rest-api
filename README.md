@@ -2,7 +2,7 @@
 
 1. Overide Model User Django
 
-##Install Project
+## Install Project
 
 1. Clone code từ github:
 
